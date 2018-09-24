@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Yauto" duration-ms="23988" started-at="2018-09-24T09:38:32Z" finished-at="2018-09-24T09:38:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23988" started-at="2018-09-24T09:38:32Z" finished-at="2018-09-24T09:38:56Z">
+      <class name="first.Google">
+        <test-method status="PASS" signature="m1()[pri:0, instance:first.Google@4f30ec]" name="m1" is-config="true" duration-ms="10870" started-at="2018-09-24T09:38:32Z" finished-at="2018-09-24T09:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:first.Google2@25b2fe]" name="m1" is-config="true" duration-ms="8710" started-at="2018-09-24T09:38:43Z" finished-at="2018-09-24T09:38:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:first.Google@4f30ec]" name="m2" duration-ms="2351" started-at="2018-09-24T09:38:52Z" finished-at="2018-09-24T09:38:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- first.Google -->
+      <class name="first.Google2">
+        <test-method status="PASS" signature="m2()[pri:0, instance:first.Google2@25b2fe]" name="m2" duration-ms="1981" started-at="2018-09-24T09:38:54Z" finished-at="2018-09-24T09:38:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- first.Google2 -->
+      <class name="first.HelloWorld">
+        <test-method status="PASS" signature="m1()[pri:0, instance:first.HelloWorld@14ba872]" name="m1" duration-ms="5" started-at="2018-09-24T09:38:56Z" finished-at="2018-09-24T09:38:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- first.HelloWorld -->
+    </test> <!-- Test -->
+  </suite> <!-- Yauto -->
+</testng-results>
